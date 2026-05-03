@@ -169,6 +169,11 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://miro.medium.com/v2/resize:fit:1200/1*vW3NUQdWMxqMEbzMGnXS4A.png">
 
+- ### [qnote](https://github.com/Omibranch/qnote)
+  > Minimal frameless notepad with local-only storage, no telemetry. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.
+
+  <img width="800px" src="https://i.ibb.co/SD9bzS9H/qnote-1dark.jpg">
+
 
 ## Instead of 1Password, LastPass
 - ### [Bitwarden](https://bitwarden.com/)
