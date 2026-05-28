@@ -22,6 +22,8 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - [Instead of Twitter / X](#instead-of-twitter--x) <br/>
 - [Instead of GitHub](#instead-of-github) <br/>
 - [Instead of Zoom](#instead-of-zoom) <br/>
+- [Instead of FreshBooks, Wave, AND.CO](#instead-of-freshbooks-wave-andco) <br/>
+- [Instead of OneTab, Raindrop.io, Bookmark OS](#instead-of-onetab-raindropio-bookmark-os) <br/>
 
 ## Instead of Windows, MacOS
 - ### Linux
@@ -350,3 +352,17 @@ A curated list of free and open-source alternatives to common proprietary softwa
   > Element Call is a free, open-source, end-to-end encrypted video calling solution built on the Matrix protocol. No account required for guests; fully self-hostable.
 
   <img width="800px" src="https://i.ytimg.com/vi/M8jU6QzieC0/maxresdefault.jpg">
+
+
+## Instead of FreshBooks, Wave, AND.CO
+
+- ### [Invoco](https://selfloom.github.io/invoco-demo/)
+
+  > Invoco is a free and open-source freelancer invoicing tool with built-in time tracker. Single HTML file, zero dependencies, works offline. No signup required — all data stays in your browser.
+
+
+## Instead of OneTab, Raindrop.io, Bookmark OS
+
+- ### [TabFlow](https://selfloom.github.io/tabflow/)
+
+  > TabFlow is a free and open-source AI-organized bookmark dashboard replacing your new tab page. Auto-categorizes bookmarks, instant search, dark mode, JSON export. Works as Chrome extension or standalone web app. No account, no cloud, local-only storage.
