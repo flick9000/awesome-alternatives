@@ -246,6 +246,9 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://okular.kde.org/images/screenies/okular-main.png">
 
+- ### [Slay PDF](https://slaypdf.com/)
+  > Slay PDF is a free and open-source local PDF editor for splitting, merging, signing, resizing and editing PDFs in the browser.
+
   
 ## Instead of AutoCAD
 - ### [FreeCAD](https://www.freecad.org/)
