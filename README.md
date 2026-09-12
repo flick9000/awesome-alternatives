@@ -118,7 +118,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Shotcut_printscreen_cs.png">
 
-- ### Lightroom > [Rawtherapee](https://www.rawtherapee.com/)/[Darktable](https://www.darktable.org/)
+- ### Lightroom > [Rawtherapee](https://www.rawtherapee.com/)/[Darktable](https://www.darktable.org/)/[LightTable](https://lighttable.app/)
   > RawTherapee is application software for processing photographs in raw image formats, as created by many digital cameras.
 
   <img width="800px" src="https://www.rawtherapee.com/rt57_field_sunset.jpg">
@@ -126,6 +126,10 @@ A curated list of free and open-source alternatives to common proprietary softwa
   > Darktable is a free and open-source photography application and raw developer.
 
   <img width="800px" src="https://www.darktable.org/images/screenshot_lighttable.jpg">
+
+  > LightTable is a digital darkroom and RAW developer with physically modelled film stock simulation, built on spektrafilm.
+
+  <img width="800px" src="https://lighttable.app/screenshots/film-controls-1500w.webp">
 
 
 ## Instead of Google Suite
