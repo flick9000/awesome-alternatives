@@ -14,6 +14,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - [Instead of Plex, Netflix](#instead-of-plex-netflix) <br/>
 - [Instead of Lightshot](#instead-of-lightshot) <br/>
 - [Instead of Windows Media Player](#instead-of-windows-media-player) <br/>
+- [Instead of Marked](#instead-of-marked) <br/>
 - [Instead of AutoCAD](#instead-of-autocad) <br/>
 - [Instead of CCleaner](#instead-of-ccleaner) <br/>
 - [Instead of VSCode](#instead-of-vscode) <br/>
@@ -247,6 +248,12 @@ A curated list of free and open-source alternatives to common proprietary softwa
   <img width="800px" src="https://okular.kde.org/images/screenies/okular-main.png">
 
   
+## Instead of Marked
+- ### [Glim](https://github.com/NeoPanic/Glim)
+  > Free, open-source macOS file viewer with Markdown diagrams, formulas and basic source editing. The overlap with Marked is local Markdown preview; PDF and Office previews are read-only.
+
+  <img width="800px" src="https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/readme/workspace.png" alt="Official Glim workspace screenshot from the project README">
+
 ## Instead of AutoCAD
 - ### [FreeCAD](https://www.freecad.org/)
   > FreeCAD is an open-source CAD modeler and a BIM software application.
