@@ -209,6 +209,12 @@ A curated list of free and open-source alternatives to common proprietary softwa
   <img width="800px" src="https://www.qnap.com/uploads/images/how-to/202109/GUID-EFBBBB66-EE16-48A3-A5AA-ED7602C1ED0D-low.png">
 
 
+- ### [Zephyron](https://github.com/NineUPFLOW/Zephyron)
+  > Zephyron is a free, open-source (MIT) traffic router for Windows 10/11. For every site, service or app it decides where the traffic goes: through Zapret/winws2 DPI desync, through a sing-box tunnel, or straight out. It bundles a sing-box core (VLESS, VMess, Trojan, Shadowsocks, Hysteria2, TUIC, AnyTLS, WireGuard, AmneziaWG), plus free Cloudflare WARP and a local Telegram Desktop proxy, so it works with no paid subscription. No installer: unzip and run.
+
+  <img width="800px" src="https://github.com/user-attachments/assets/fcf6d6c2-01f6-43c1-86ae-16b8a49a5b93">
+
+
 ## Instead of Plex, Netflix
 - ### [Jellyfin](https://jellyfin.org/)
   > Jellyfin is a free and open-source media server and suite of multimedia applications
