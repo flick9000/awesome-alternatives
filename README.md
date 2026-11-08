@@ -246,6 +246,11 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://okular.kde.org/images/screenies/okular-main.png">
 
+- ### [Paperwing](https://paperwingapp.com)
+  > Paperwing is a free, open-source desktop PDF editor for Windows and macOS. It edits text and images, signs, fills forms, runs OCR, redacts and converts to and from Office formats, entirely offline.
+
+  <img width="800px" src="https://raw.githubusercontent.com/rohanvijaykumar/paperwing/main/docs/screenshots/hero.png">
+
   
 ## Instead of AutoCAD
 - ### [FreeCAD](https://www.freecad.org/)
